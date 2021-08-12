@@ -1,1 +1,1 @@
-#  https://aventura-da-vingança.io
+#  https://aventura-da-vingança.github.io
